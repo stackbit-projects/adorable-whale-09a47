@@ -23,7 +23,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: blue
+      background_color: white
       background_image: >-
         images/Pink and Tan Flowers Modern Artisan Business X-Frame Banner
         (2).png
