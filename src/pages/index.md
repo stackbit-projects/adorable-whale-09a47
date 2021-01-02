@@ -25,8 +25,8 @@ sections:
     background:
       background_color: blue
       background_image: >-
-        images/Light Purple and White Fashion Back to Business Landscape Banner
-        (27).png
+        images/Pink and Tan Flowers Modern Artisan Business X-Frame Banner
+        (2).png
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
