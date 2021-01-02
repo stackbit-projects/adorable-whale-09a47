@@ -19,7 +19,7 @@ sections:
         new_window: false
         type: action
     align: left
-    image: images/hero.svg
+    image: images/pexels-criativithy-1821095 (1).jpg
     image_position: right
     has_background: true
     background:
