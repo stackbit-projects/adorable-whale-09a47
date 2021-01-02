@@ -24,9 +24,7 @@ sections:
     has_background: true
     background:
       background_color: gray
-      background_image: >-
-        images/Pink and Tan Flowers Modern Artisan Business X-Frame Banner
-        (2).png
+      background_image: images/pexels-karolina-grabowska-4041285.jpg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
